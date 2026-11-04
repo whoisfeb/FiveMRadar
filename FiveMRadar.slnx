@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FiveMRadar.vcxproj" Id="9402a2ac-12e7-4178-a1da-b2ce4a3d4afd" />
+</Solution>
